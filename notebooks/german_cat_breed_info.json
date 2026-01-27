@@ -1,408 +1,441 @@
 [
-  {
-    "breedName": "Abessinierkatze",
-    "description": "Die Abessinierkatze ist eine der ältesten gezüchteten Katzenrassen der Welt. Obwohl ihr Name auf Äthiopien, das frühere Kaiserreich Abessinien, in Ostafrika als Herkunftsland schließen lässt, liegen ihre Ursprünge in Südostasien.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20chocolate.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Abessinierkatze",
-    "catApiId": "abys"
-  },
-  {
-    "breedName": "American Bobtail",
-    "description": "Die American Bobtail ist eine relativ neue Katzenrasse, die in den späten 1960ern entstanden ist. Sie ist wegen ihres kurzen Schwanzes („Bobtail“) bemerkenswert, der nur ein Drittel bis zur Hälfte der Länge eines normalen Katzenschwanzes hat. Dies ist das Ergebnis einer genetischen Mutation, die die Entwicklung des Schwanzes betrifft, ähnlich wie bei der Manx-Katze. Die Katze ist nicht verwandt mit der Japanese Bobtail, trotz des ähnlichen Namens und des ähnlichen Typs. Die Zuchtprogramme sind vollständig unabhängig und das Gen, das die Mutation hervorruft, ist bei beiden Rassen unterschiedlich. Bei der American Bobtail ist das Gen dominant, bei der Japanese Bobtail rezessiv.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20bobtail%202.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/American_Bobtail",
-    "catApiId": "abob"
-  },
-  {
-    "breedName": "American Curl",
-    "description": "Die American Curl ist eine Rasse der Hauskatze.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20curl%202.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/American_Curl",
-    "catApiId": "acur"
-  },
-  {
-    "breedName": "American Shorthair",
-    "description": "Die American Shorthair stammt vermutlich von den Vorgängern der heutigen Britisch Kurzhaar ab, die von den britischen Siedlern nach Nordamerika gebracht worden sind.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jewelkatz%20Romeo%20Of%20Stalker-Bars.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/American_Shorthair",
-    "catApiId": "asho"
-  },
-  {
-    "breedName": "American Wirehair",
-    "description": "Die American Wirehair oder Amerikanische Drahthaarkatze ist eine Hauskatzen-Rasse, die in New York entstanden ist. Da es nur sehr wenige Züchter dieser Rasse gibt, ist sie selbst in Amerika sehr selten, in Europa selten zu finden.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Wirehair%20-%20CFF%20cat%20show%20Heinola%202008-05-04%20IMG%208721.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/American_Wirehair",
-    "catApiId": "awir"
-  },
-  {
-    "breedName": "Angorakatze",
-    "description": "Der Begriff Angorakatze wird in verschiedenen historischen Zeitabschnitten unterschiedlich gebraucht:Türkisch Angora, eine heutige und von den Zuchtverbänden anerkannte Katzenrasse.\nHistorische Bezeichnung für Katzen mit längerem Fell schlechthin. Gebräuchlich bis etwa zu Beginn der 1950er Jahre.\nBis heute landläufig volkstümliche Bezeichnung für alle Katzen mit längerem Fell. Insbesondere weiße Katzen mit längeren Haaren werden häufig als Angorakatze bezeichnet.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuxedo%20longhair%20cat%20-%20Spanky.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Angorakatze",
-    "catApiId": "tang"
-  },
-  {
-    "breedName": "Arabische Mau",
-    "description": "Die Arabische Mau ist eine Katzenrasse, die erst 2009 offiziell von der World Cat Federation (WCF) als Rasse anerkannt wurde; sie gehört zu den Wildrassen. Schon sehr lange bekannt, wurde sie von Züchtern in jüngster Zeit wiederentdeckt und als Familientier herangezüchtet. Nicht zu verwechseln ist die Rasse mit der Ägyptischen Mau. Das Fell der erwachsenen Tiere ist fest, sehr weich und nicht seidig.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bex%20Arabian%20Mau.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Arabische_Mau",
-    "catApiId": "amau"
-  },
-  {
-    "breedName": "Asian",
-    "description": "Asian ist der Name einer britischen Katzenrasse. Sie wird auch Malayan genannt.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BrownVarientAsianCat.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Asian_(Katze)",
-    "catApiId": "mala"
-  },
-  {
-    "breedName": "Australian Mist",
-    "description": "Die Australian Mist, früher auch als Spotted Mist bezeichnet sowie unter der deutschen Bezeichnung Australische Schleierkatze bekannt, ist eine in Australien erzüchtete kurzhaarige Katzenrasse.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Australian%20Mist%20%284985423018%29.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Australian_Mist",
-    "catApiId": "amis"
-  },
-  {
-    "breedName": "Balinesenkatze",
-    "description": "Die Balinesenkatze ist eine Rasse der Hauskatzen, die durch ihr langes Haar gekennzeichnet ist und nach denselben Farb- und Musterungsvarianten wie Siamkatzen unterschieden wird. Balinesen stammen von Siamkatzen ab, unterscheiden sich aber durch ihr mittellanges Haar und einen buschigen Schwanz.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghislaine%206028.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Balinesenkatze",
-    "catApiId": "bali"
-  },
-  {
-    "breedName": "Bengal (Katzenrasse)",
-    "description": "Die Bengalkatze ist eine Rassekatze, die aus der Kreuzung der asiatischen Leopardkatze – einer Wildkatze – mit einer kurzhaarigen Hauskatze hervorging. Damit gehört die Bengalkatze zu den Hybriden.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paintedcats%20Red%20Star%20standing.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Bengal_(Katzenrasse)",
-    "catApiId": "beng"
-  },
-  {
-    "breedName": "Birma-Katze",
-    "description": "Die Birma-Katze ist eine Rassekatze mit halblangem Fell, die zu den Halblanghaarkatzen zählt. Birmakatzen sind Teilalbinos, sogenannte Point-Katzen, mit einem hellen, weichen Körperfell und dunklen Abzeichen (Points) an den Akren, den kühleren Körperstellen wie Gesicht, Ohren, Schwanz, Beinen und Hoden. Birmakatzen haben blaue Augen. Besonderes Rassekennzeichen ist darüber hinaus die blütenweiße Färbung der Pfoten, die an der Rückseite der Hinterbeine in einem umgekehrten „V“, den sogenannten Sporen, nach oben auslaufen sollte.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Minerva-25.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Birma-Katze",
-    "catApiId": "birm"
-  },
-  {
-    "breedName": "Bombay-Katze",
-    "description": "Die Bombay-Katze ist eine kurzhaarige Rasse der Hauskatze. Sie ist eine der am seltensten in Europa gehaltenen Katzenrassen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bombay%20Katze%20Ebene%20of%20Blue%20Sinfonie.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Bombay-Katze",
-    "catApiId": "bomb"
-  },
-  {
-    "breedName": "Britisch Kurzhaar",
-    "description": "Die Britisch Kurzhaar ist eine Rassekatze. Die Rasse ist seit Ende des 19. Jahrhunderts bekannt und wird seit über 100 Jahren gezielt gezüchtet.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mystica%20from%20British%20Empire%20Cattery.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Britisch_Kurzhaar",
-    "catApiId": "bsho"
-  },
-  {
-    "breedName": "Britisch Langhaar",
-    "description": "Die Britisch Langhaar, auch Britisch Langhaarkatze oder Highlander, ist die Halblanghaarvariante der Britisch Kurzhaar. Sie unterscheidet sich von dieser nur durch die Felllänge und wird nach dem gleichen Rassestandard gezüchtet.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BLH%20cat%20transparent.png",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Britisch_Langhaar",
-    "catApiId": "bslo"
-  },
-  {
-    "breedName": "Burma-Katze",
-    "description": "Die Burma-Katze oder Burmese ist eine kurzhaarige Rasse der Hauskatze. Sie ist eine der am längsten in Europa gehaltenen orientalischen Katzenrassen und stammt aus Birma, dem heutigen Myanmar. Dort halten die Mönche sie als eine von 16 Tempelkatzenrassen unter ihrem thailändischen Namen Maeo Thong Daeng („Kupferkatze“) oder ศุภลักษณ์ RTGS: Suphalaksa, das bedeutet „glückverheißender Charakter“: Sie gilt ihnen als Glücksbringer. Die Burma-Katze ist nicht zu verwechseln mit der Birma-Katze, die eine eigene Rasse darstellt.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BurMau%20Vega%20Star%2C%20champagne%20burmese%20kitten%20%28cropped%29.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Burma-Katze",
-    "catApiId": "bure"
-  },
-  {
-    "breedName": "Burmilla",
-    "description": "Burmilla ist eine anerkannte Katzenrasse der Kategorie 3 – Kurzhaar.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Male%20Burmilla%20cat.jpeg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Burmilla",
-    "catApiId": "buri"
-  },
-  {
-    "breedName": "California Spangled",
-    "description": "Die California Spangled ist eine Katzenrasse, die gezüchtet wurde, um getupfte Wildkatzen wie Ozelot oder Leopard in die Wohnung zu bringen. Die Zucht wurde in den 1970er Jahren begonnen. Sie ist eine seltene Rasse. Die Beliebtheit zweier weiterer getupfter Katzenrassen überschatteten ihre Entwicklung. So ist sie sowohl aus allen Organisationen der Katzenzüchter, in der sie anerkannt war, als auch aus den Angeboten der Katzenzüchter selbst verschwunden. Zuchtbemühungen bei dieser Rassekatze sind nur noch in Ansätzen vorhanden.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Star%20Spangled%20Cat.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/California_Spangled",
-    "catApiId": "cspa"
-  },
-  {
-    "breedName": "Chartreux",
-    "description": "Die Chartreux, im deutschen Volksmund seit Import der gleichfarbigen langhaarigen Varietät der Angorakatze nach Europa auch als Kartäuser oder Malteserkatze bezeichnet, ist eine französische Rassekatze mit blaugrauem Fell und bernsteinfarbenen Augen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/CertosinoFemmina.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Chartreux",
-    "catApiId": "char"
-  },
-  {
-    "breedName": "Chausie",
-    "description": "Die Chausie ist eine Kreuzung zwischen Hauskatze und Rohrkatze. Züchter meinen, dass Chausies bei richtiger Sozialisierung zu treuen Freunden werden. Die Katze hat einen athletischen Körper, lange Beine und ein gebändertes kurzhaariges Fell.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/ChausieA.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Chausie",
-    "catApiId": "chau"
-  },
-  {
-    "breedName": "Cornish Rex",
-    "description": "Cornish Rex ist eine Hauskatzen-Rasse. Ihr markantestes Merkmal ist das gekräuselte Fell. Die erste Katze dieser Rasse tauchte Anfang der 50er Jahre in Cornwall auf.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BebopsLilacPrince.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Cornish_Rex",
-    "catApiId": "crex"
-  },
-  {
-    "breedName": "Cymric",
-    "description": "Die Cymric ist eine langhaarige Rasse der Hauskatze. Sie ist bis auf die Haarlänge mit der Manx-Katze identisch und wird bei manchen Vereinigungen auch unter „Manx“ als langhaarige Variante geführt. Der Name kommt von Cymru, dem einheimischen Namen von Wales, obwohl die Rasse mit Wales in keiner Weise etwas zu tun hat. Er wurde gewählt, um der Rasse, die von der Isle of Man stammt, einen „keltischen“ Namen zu geben.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cymric%20-%20Norwegian%20forest%20cat%20presentation%20show%20Kotka%202009-02-01%20IMG%200687.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Cymric_(Katze)",
-    "catApiId": "cymr"
-  },
-  {
-    "breedName": "Devon Rex",
-    "description": "Die Devon Rex ist eine Rassekatze. Sie hat ein koboldhaftes Aussehen aufgrund der relativ großen Ohren und des flachen, breiten Schädels. Ihr Fell ist gewellt bis gelockt und relativ kurz. Sie besitzt ein menschenbezogenes, kommunikatives Wesen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Devon%20Rex%20Cassini.jpeg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Devon_Rex",
-    "catApiId": "drex"
-  },
-  {
-    "breedName": "Don Sphynx",
-    "description": "Die Don Sphynx, die auch als Don Hairless oder Donskoy bekannt ist, ist eine haarlose Katzenrasse russischen Ursprungs und gehört damit zu den sogenannten Nacktkatzen. Die Rasse ist nicht mit der besser bekannten, kanadischen Sphynx verwandt. Ihre Haarlosigkeit wird nicht durch ein rezessives, sondern durch ein semi-dominantes Gen verursacht.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20sphynx.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Don_Sphynx",
-    "catApiId": "dons"
-  },
-  {
-    "breedName": "Exotische Kurzhaarkatze",
-    "description": "Die Exotische Kurzhaarkatze ist eine Rasse der Hauskatze, die erstmals von US-amerikanischen Katzenliebhabern gezüchtet wurde.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Exotic%20cat%20transparent.png",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Exotische_Kurzhaarkatze",
-    "catApiId": "esho"
-  },
-  {
-    "breedName": "Havana-Katze",
-    "description": "Die Havana ist eine vom Menschen erzüchtete Katzenrasse. Sie gehört zu den Orientalisch-Kurzhaar-Katzen und wird bei den europäischen Katzenvereinen üblicherweise auch in dieser Kategorie geführt. Wie die Foreign White bei den Siam ist sie jedoch von vielen Zuchtvereinen lange als eigenständige Rasse geführt worden und wird dies auch noch bei manchen amerikanischen Vereinigungen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Havana%20Brown%20-%20choco.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Havana-Katze",
-    "catApiId": "hbro"
-  },
-  {
-    "breedName": "Japanese Bobtail",
-    "description": "Japanese Bobtail ist eine japanische Katzenrasse, die durch ihren kurzen Schwanz auffällt. Sie wird heute in einer langhaarigen und einer kurzhaarigen Variante gezüchtet. Im Herkunftsland Japan heißt diese Rasse Kazoku-neko, die seltene, dreifarbige Zuchtform wird Mike-neko genannt.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/JapaneseBobtailBlueEyedMi-ke.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Japanese_Bobtail",
-    "catApiId": "jbob"
-  },
-  {
-    "breedName": "Javanese-Katze",
-    "description": "Die Orientalisch Langhaar-Katze (OLH) zählt zu den orientalischen Katzenrassen und ist auch unter dem Namen Javanese oder Mandarin bekannt. Der Name Javanese hat mit der Insel Java nur sehr wenig zu tun.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Javanese%20cat.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Javanese-Katze",
-    "catApiId": "java"
-  },
-  {
-    "breedName": "Khao Manee",
-    "description": "Als Khao Manee wird eine Rasse der Hauskatze bezeichnet. Thai: ขาวมณี RTGS: \"Khao Mani\" bedeutet \"Weißes Juwel\". Ein ebenfalls gebräuchlicher Name lautet \"Khao Plort\" und bedeutet \"ganz weiß\".",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Khaomanee%20cat.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Khao_Manee",
-    "catApiId": "khao"
-  },
-  {
-    "breedName": "Korat-Katze",
-    "description": "Die Koratkatze ist eine mittelschwere Kurzhaarkatze. Sie wird auch Si-Sawat genannt, was sich aus den thailändischen Wörtern si (Farbe) und sawat (blau-grau) zusammensetzt. Ein weiterer Name in Thailand ist Maeo Dok-Lao, was etwa „Katze von der Farbe der Wolken vor einem Regenschauer“ bedeutet.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/KOR%201149.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Korat-Katze",
-    "catApiId": "kora"
-  },
-  {
-    "breedName": "Kurilen Bobtail",
-    "description": "Die Kurilen Bobtail ist eine Katze russischen Ursprungs.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kurilian%20bobtail.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Kurilen_Bobtail",
-    "catApiId": "kuri"
-  },
-  {
-    "breedName": "LaPerm",
-    "description": "Die LaPerm ist eine noch recht junge Katzenrasse, die aus Oregon, USA, stammt.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Laperm%20LH%20blacktortie%20white.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/LaPerm",
-    "catApiId": "lape"
-  },
-  {
-    "breedName": "Maine-Coon-Katze",
-    "description": "Die Maine-Coon-Katze, auch Amerikanische Waldkatze genannt, ist eine ursprünglich US-amerikanische Haus- und Gebrauchskatze aus dem Nordosten der Vereinigten Staaten, die 1985 von dem US-amerikanischen Bundesstaat Maine zur „Staatskatze“ (state cat) ernannt wurde.\nSeit längerer Zeit wird sie planmäßig gezüchtet. Sie ist eine Halblanghaarkatze mittelschwerer Form. Da sie sehr anhänglich ist, wird die Maine Coon auch Hundekatze genannt. Weitere Bezeichnungen der Rasse sind Maine Cat oder Maine Shag. Wegen ihres Wesens und ihrer Größe wird sie auch als gentle giant bezeichnet. Zusammen mit der Norwegischen Waldkatze und der Sibirischen Katze zählt sie zur Gruppe der sogenannten Waldkatzen, die wiederum zu den Naturrassen zählen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Maine%20Coon%20male%20NO%20Sigdalskauen%20Balder.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Maine-Coon-Katze",
-    "catApiId": "mcoo"
-  },
-  {
-    "breedName": "Manx",
-    "description": "Manx ist eine Katzenrasse, die sich von fast allen übrigen Katzen dadurch unterscheidet, dass sie keinen Schwanz hat. Dieses Merkmal entstand ursprünglich als spontane Genmutation, wird aber heute durch Züchter selektiv gefördert. Die Manx-Katze lebt bereits seit Jahrhunderten auf der in der Irischen See liegenden Insel Man.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Manx%20cat%20by%20Karen%20Weaver.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Manx_(Katze)",
-    "catApiId": "manx"
-  },
-  {
-    "breedName": "Nebelung-Katze",
-    "description": "Die Nebelung ist eine elegante Katzenrasse, die erst langsam von den Katzenzüchtern wahrgenommen wurde. Der Name Nebelung, ein Portmanteau aus Nebel und Nibelungenlied, lässt sich aus dem seidig blau-grauen Fell und den Namen der Stammeltern Siegfried und Brunhilde, benannt nach zwei Hauptfiguren des Nibelungenliedes, ableiten.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nebelung%20Male%2C%20Aleksandr%20van%20Song%20de%20Chine.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Nebelung-Katze",
-    "catApiId": "nebe"
-  },
-  {
-    "breedName": "Norwegische Waldkatze",
-    "description": "Die Norwegische Waldkatze, kurz als Norweger bezeichnet, ist eine sehr ursprüngliche, über lange Zeiträume ohne gezielte züchterische Einflussnahme entstandene regionale Hauskatze Norwegens. Sie wurde in den 1930er Jahren redomestiziert und wird seit den 1970er Jahren den „natürlichen Rassen“ zugerechnet. Die Norwegische Waldkatze ist groß, robust und hat halblanges Fell mit einem ausgeprägten buschigen Schwanz und einer deutlichen Halskrause.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Noorse-boskat%20wikipedia%201.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Norwegische_Waldkatze",
-    "catApiId": "norw"
-  },
-  {
-    "breedName": "Ocicat",
-    "description": "Ocicat ist eine Katzenrasse. Ihr Name stammt von einer Wildkatze, dem Ozelot ab. Die Rasse ist jedoch völlig frei von Wildkatzen-Einkreuzungen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ocicat%20Fond%20Blanc.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Ocicat",
-    "catApiId": "ocic"
-  },
-  {
-    "breedName": "Orientalisch Kurzhaar",
-    "description": "Die Orientalisch Kurzhaar ist eine Katzenrasse.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Orientalshorthairs2.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Orientalisch_Kurzhaar",
-    "catApiId": "orie"
-  },
-  {
-    "breedName": "Perserkatze",
-    "description": "Die Perserkatze zählt zu den ältesten und populärsten Rassekatzen. Perserkatzen teilen sich mit Exotischen Kurzhaarkatzen und Colourpoints einen gemeinsamen Rassestandard. Unterschiede weisen sie nur in Felllänge, -textur und -farbe auf.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20Persian.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Perserkatze",
-    "catApiId": "pers"
-  },
-  {
-    "breedName": "Pixiebob",
-    "description": "Pixiebob ist der Name einer Hauskatzenrasse. Berichte, denen zufolge Pixie-Bobs auf Hybriden aus Rotluchsen und Hauskatzen zurückgehen sollen, gelten als widerlegt.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pantanal%20Pixie-Bob%202.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Pixiebob",
-    "catApiId": "pixi"
-  },
-  {
-    "breedName": "RagaMuffin",
-    "description": "RagaMuffins, große Katzen mit halblangem Fell, haben denselben Ursprung wie die Ragdoll, deshalb besteht eine Ähnlichkeit beider Rassen.",
-    "imageUrl": null,
-    "wikiUrl": "https://de.wikipedia.org/wiki/RagaMuffin",
-    "catApiId": "raga"
-  },
-  {
-    "breedName": "Ragdoll-Katze",
-    "description": "Die Ragdoll ist eine Anfang der 1960er Jahre in Amerika gezüchtete Katzenrasse.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20Point%20mitted%20Ragdoll%20BreedingCat.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Ragdoll-Katze",
-    "catApiId": "ragd"
-  },
-  {
-    "breedName": "Russisch Blau",
-    "description": "Als Russisch Blau wird eine Rasse der Hauskatze bezeichnet. Die Russisch Blau trägt ein graublaues, kurzhaariges, sehr dichtes (doppeltes) Fell mit farblosen Haarspitzen, die im Licht einen Silberschimmer erzeugen. Sie ist die einzige Katzenrasse mit dieser Art von Fell. Große, tief smaragdgrüne Augen heben sich deutlich von der Körperfarbe ab. Der Körper ist mittelgroß, mittelschwer, elegant und muskulös. Der Kopf ist klar strukturiert und weder zu lang noch zu kurz. Das Profil muss gerade sein. Diese Katze wirkt in allem ausbalanciert.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruskis%20dimka%203%20%28cropped%29.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Russisch_Blau",
-    "catApiId": "rblu"
-  },
-  {
-    "breedName": "Savannah-Katze",
-    "description": "Die Savannah-Katze ist eine junge exotische Hauskatzenrasse, die aus der Kreuzung eines Servals – einer wilden Katzenart aus Afrika – mit einer Hauskatze entstand, weshalb die Savannah-Katze auch viele Merkmale des Servals besitzt. Die Savannah-Katze gehört zu den Hybrid-Rassen. Sie ist eine von der TICA anerkannte Rasse und gilt als eine der teuersten Hauskatzenrassen der Welt. Sie kostet zwischen 1.000 und über 15.000 Euro und kann bei einer Schulterhöhe von 45 cm bis zu 1,2 m lang werden.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Savannah%20Cat%20portrait.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Savannah-Katze",
-    "catApiId": "sava"
-  },
-  {
-    "breedName": "Schottische Faltohrkatze",
-    "description": "Die Schottische Faltohrkatze ist eine Kurzhaarkatze, deren Hauptmerkmal nach vorne gefaltete Ohren sind. Dieses Merkmal ist das Ergebnis einer stabilen und vererbbaren Mutation. Die Katzenrasse Scottish Fold entstand durch züchterische Bemühungen ab Anfang der 1960er-Jahre in Großbritannien. Sie wird heute aufgrund der unterschiedlichen Anerkennung durch Zuchtverbände weltweit hauptsächlich in den Vereinigten Staaten gezüchtet. Die Rasse darf in Deutschland zwar weiterhin gezüchtet werden, allerdings wird vom Gutachten zur Auslegung von § 11b des Tierschutzgesetzes des Bundesministeriums für Ernährung und Landwirtschaft ein Zuchtverbot empfohlen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Purple-scottish-fold.png",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Schottische_Faltohrkatze",
-    "catApiId": "sfol"
-  },
-  {
-    "breedName": "Selkirk Rex",
-    "description": "Selkirk Rex ist eine Rassekatze, die sich durch ein gelocktes Fell auszeichnet.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Selkirk%20Longhair.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Selkirk_Rex",
-    "catApiId": "srex"
-  },
-  {
-    "breedName": "Siamkatze",
-    "description": "Siamkatzen gehören zu den bekanntesten und am meisten verbreiteten Rassekatzen. Wie der Name vermuten lässt, stammen die Vorfahren der heutigen Siamkatzen aus dem südostasiatischen Siam, dem heutigen Thailand, wo sie vor etwa 150–200 Jahren schriftlich erwähnt werden. Das erste Siamkatzenpaar gelangte Ende des 19. Jahrhunderts über englische Diplomaten nach Großbritannien und begründete die Zucht der Rasse in Europa.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Siamese%20cat%20Vaillante.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Siamkatze",
-    "catApiId": "siam"
-  },
-  {
-    "breedName": "Sibirische Katze",
-    "description": "Die Sibirische Katze ist eine halblanghaarige Rassekatze von kräftiger Statur, die seit 1987 planmäßig gezüchtet wird und in kurzer Zeit weltweite Verbreitung gefunden hat. Sie ist ursprünglich eine halblanghaarige russische Hauskatze, die nicht züchterisch beeinflusst wurde. Sie wird daher den „natürlichen Rassen“ und unter diesen den Waldkatzen zugerechnet. Ihr Typus ist im gesamten Territorium Russlands sowie weiterer angrenzender Gebiete der früheren Sowjetunion verbreitet. Zusammen mit der Norwegischen Waldkatze und der Maine Coon bildet sie die Gruppe der Waldkatzen, welche zu den Naturrassen zählen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/SC%20Alizarin%20Animal%20Beat%20SIB%20a%2023.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Sibirische_Katze",
-    "catApiId": "sibe"
-  },
-  {
-    "breedName": "Singapura",
-    "description": "Die Singapura ist die kleinste Rassekatze. Sie wurde 1975 von der amerikanischen Familie Meadows aus Singapur mit in die Vereinigten Staaten gebracht und ein Jahr später auf einer Ausstellung gezeigt. Sie ist nach wie vor eine der seltensten Rassekatzen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Singapura%20Cats%20%28cropped%29.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Singapura",
-    "catApiId": "sing"
-  },
-  {
-    "breedName": "Snowshoe",
-    "description": "Snowshoe ist die Bezeichnung einer Katzenrasse.\nNach ihren auffälligen weißen Pfoten benannt, vereint diese Rasse die Abzeichen einer Siamkatze mit weißen Partien. Es gibt zwei Fellmuster: a) Behandschuht mit begrenztem Weißanteil, b) zweifarbig mit höherem Weißanteil am Gesicht und Körper.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chizhik%20Cat%20%28cropped%29.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Snowshoe",
-    "catApiId": "snow"
-  },
-  {
-    "breedName": "Somali-Katze",
-    "description": "Die Somalikatze ist eine Katzenrasse mit halblangem Fell. Sie ist eine Variante der Abessinierkatze, aus der sie wahrscheinlich durch Mutation oder Einkreuzung anderer Rassen hervorging. Über Abessinierkatzen mit halblangem Fell wurde bereits seit der Frühzeit der Abessinierkatzenzucht berichtet. Seit den 1950er Jahren traten diese gehäuft, vor allem im englischsprachigen Zuchtraum, auf und wurden gezielt weitergezüchtet. 1979 wurden Abessinierkatzen mit halblangem Fell erstmals offiziell von der Cat Fanciers’ Association als eigenständige Rasse Somalikatze anerkannt. Weitere weltweite agierende Verbände wie die Fédération Internationale Féline folgten kurz danach.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bluestream%27s%20QuiQui2%20SOM%20o.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Somali-Katze",
-    "catApiId": "soma"
-  },
-  {
-    "breedName": "Sphynx-Katze",
-    "description": "Die Sphynx- oder Sphinx-Katze, benannt nach der altägyptischen Sphinx, ist eine nahezu haarlose kanadische Katzenrasse.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20Sphynx.%20img%20025.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Sphynx-Katze",
-    "catApiId": "sphy"
-  },
-  {
-    "breedName": "Tiffanie",
-    "description": "Die  Tiffanie ist die Halbhaarvariante der Asian, welche nur vom Governing Council of the Cat Fancy anerkannt wird.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Tiffanie%20at%20cat%20show.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Tiffanie_(Katzenrasse)",
-    "catApiId": "ctif"
-  },
-  {
-    "breedName": "Tonkanese",
-    "description": "Die Katzenrasse Tonkanese  vereint Eigenschaften der Siamesen und Burmesen in einer mittelgroßen Katze mit türkisblauen Augen.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chat%20tonkinois%20lilac%20mink%20%28chatterie%20de%20l%27Esprit%20d%27Edenvane%29..jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Tonkanese",
-    "catApiId": "tonk"
-  },
-  {
-    "breedName": "Toyger",
-    "description": "Die Toyger ist eine Hauskatzenrasse, die einen kleinen Tiger darstellen soll. Sie wird derzeit von der amerikanischen The International Cat Association (TICA) anerkannt.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Toyger%20male%20queenanne.JPG",
-    "wikiUrl": "https://de.wikipedia.org/wiki/Toyger",
-    "catApiId": "toyg"
-  },
-  {
-    "breedName": "Türkisch Angora",
-    "description": "Die Türkisch Angora ist eine Katzenrasse.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Angora%20turc.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkisch_Angora",
-    "catApiId": "tang"
-  },
-  {
-    "breedName": "Türkisch Van",
-    "description": "Die Türkisch Van, auch als Schwimmkatze, Türkische Katze oder Vankatze bekannt, ist eine seltene Katzenrasse aus dem Osten der Türkei. Ihren Namen verdankt sie dem Vansee im Armenischen Hochland, in dessen rauer und abgeschiedener Region sich diese Rasse vor angeblich über 2.000 Jahren entwickelte. Charakteristisch für die Türkisch Van sind das dichte, halblanghaarige Fell und ihre Fellzeichnung, die als Vanzeichnung bekannt ist.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Turkish%20Van%20cat%20transparent.png",
-    "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkisch_Van",
-    "catApiId": "tvan"
-  },
-  {
-    "breedName": "Ägyptische Mau",
-    "description": "Die Ägyptische Mau ist eine natürliche Rasse, die erstmals in historischen Wandmalereien in Ägypten dargestellt wird. Körper und Gesicht haben eine gemäßigte Form, das Fell besitzt ein Tupfenmuster. Die ursprüngliche Farbe ist bräunlich.",
-    "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mau%20Egytien.jpg",
-    "wikiUrl": "https://de.wikipedia.org/wiki/%C3%84gyptische_Mau",
-    "catApiId": "emau"
-  }
-]
+    {
+      "breedName": "Abessinierkatze",
+      "wikiTitle": "Abessinierkatze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Abessinierkatze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Abessinierkater1.jpg",
+      "id": "abys",
+      "Description": "Diese Rasse gilt häufig als aktiv, energiegeladen und eigenständig und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Ägyptische Mau",
+      "wikiTitle": "%C3%84gyptische_Mau",
+      "wikiUrl": "https://de.wikipedia.org/wiki/%C3%84gyptische_Mau",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mau%20Egytien.jpg",
+      "id": "emau",
+      "Description": "Diese Rasse gilt häufig als Agile, Dependent und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "American Bobtail",
+      "wikiTitle": "American_Bobtail",
+      "wikiUrl": "https://de.wikipedia.org/wiki/American_Bobtail",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20bobtail%202.jpg",
+      "id": "abob",
+      "Description": "Diese Rasse gilt häufig als intelligent, Interactive und lebhaft und sucht je nach Charakter gern die Nähe ihrer Menschen. Ein Merkmal kann ein verkürzter Schwanz sein; ansonsten wirkt sie oft sportlich und beweglich. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "American Curl",
+      "wikiTitle": "American_Curl",
+      "wikiUrl": "https://de.wikipedia.org/wiki/American_Curl",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20curl%202.jpg",
+      "id": "acur",
+      "Description": "Diese Rasse gilt häufig als anhänglich, neugierig und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "American Shorthair",
+      "wikiTitle": "American_Shorthair",
+      "wikiUrl": "https://de.wikipedia.org/wiki/American_Shorthair",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Jewelkatz%20Romeo%20Of%20Stalker-Bars.jpg",
+      "id": "asho",
+      "Description": "Diese Rasse gilt häufig als aktiv, neugierig und Easy Going und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "American Wirehair",
+      "wikiTitle": "American_Wirehair",
+      "wikiUrl": "https://de.wikipedia.org/wiki/American_Wirehair",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/American%20Wirehair%20-%20CFF%20cat%20show%20Heinola%202008-05-04%20IMG%208721.JPG",
+      "id": "awir",
+      "Description": "Diese Rasse gilt häufig als anhänglich, neugierig und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Arabische Mau",
+      "wikiTitle": "Arabische_Mau",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Arabische_Mau",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bex%20Arabian%20Mau.jpg",
+      "id": "amau",
+      "Description": "Diese Rasse gilt häufig als anhänglich, Agile und neugierig und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Australian Mist",
+      "wikiTitle": "Australian_Mist",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Australian_Mist",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Australian%20Mist.jpg",
+      "id": "amis",
+      "Description": "Diese Rasse gilt häufig als lebhaft, gesellig und Fun-loving und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Balinesenkatze",
+      "wikiTitle": "Balinesenkatze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Balinesenkatze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghislaine%206028.jpg",
+      "id": "bali",
+      "Description": "Diese Rasse gilt häufig als anhänglich, intelligent und verspielt und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Bengal",
+      "wikiTitle": "Bengal_(Katzenrasse)",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Bengal_(Katzenrasse)",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Paintedcats%20Red%20Star%20standing.jpg",
+      "id": "beng",
+      "Description": "Diese Rasse gilt häufig als Alert, Agile und energiegeladen und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Birma-Katze",
+      "wikiTitle": "Birma-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Birma-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Birman%20red%20lynx%20point%2002.jpg",
+      "id": "birm",
+      "Description": "Diese Rasse gilt häufig als anhänglich, aktiv und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Bombay-Katze",
+      "wikiTitle": "Bombay-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Bombay-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bombay%20Katze%20Ebene%20of%20Blue%20Sinfonie.JPG",
+      "id": "bomb",
+      "Description": "Diese Rasse gilt häufig als anhänglich, Dependent und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Britisch Kurzhaar",
+      "wikiTitle": "Britisch_Kurzhaar",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Britisch_Kurzhaar",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Mystica%20from%20British%20Empire%20Cattery.jpg",
+      "id": "bsho",
+      "Description": "Diese Rasse gilt häufig als anhänglich, Easy Going und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kurzes Fell und kräftig und eher groß. Meist ist sie eher gemütlich und kommt mit moderater Beschäftigung gut aus. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "British Longhair",
+      "wikiTitle": "Britisch_Langhaar",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Britisch_Langhaar",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BLH%20cat%20transparent.png",
+      "id": "bslo",
+      "Description": "Diese Rasse gilt häufig als anhänglich, Easy Going und eigenständig und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kräftig und eher groß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Für die Pflege sind regelmäßiges Bürsten und etwas Routine sinnvoll."
+    },
+    {
+      "breedName": "Burma-Katze",
+      "wikiTitle": "Burma-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Burma-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BurMau%20Vega%20Star%2C%20champagne%20burmese%20kitten%20%28cropped%29.jpg",
+      "id": "bure",
+      "Description": "Diese Rasse gilt häufig als neugierig, intelligent und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Burmilla",
+      "wikiTitle": "Burmilla",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Burmilla",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Male%20Burmilla%20cat.jpeg",
+      "id": "buri",
+      "Description": "Diese Rasse gilt häufig als Easy Going, freundlich und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "California Spangled",
+      "wikiTitle": "California_Spangled",
+      "wikiUrl": "https://de.wikipedia.org/wiki/California_Spangled",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Star%20Spangled%20Cat.jpg",
+      "id": "cspa",
+      "Description": "Diese Rasse gilt häufig als anhänglich, neugierig und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kräftig und eher groß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Chartreux",
+      "wikiTitle": "Chartreux",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Chartreux",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/CertosinoFemmina.JPG",
+      "id": "char",
+      "Description": "Diese Rasse gilt häufig als anhänglich, loyal und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Auffällig ist das meist lockige oder gewellte Fell und der schlanke, wendige Körperbau. Meist ist sie eher gemütlich und kommt mit moderater Beschäftigung gut aus. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Chausie",
+      "wikiTitle": "Chausie",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Chausie",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/ChausieA.jpg",
+      "id": "chau",
+      "Description": "Diese Rasse gilt häufig als anhänglich, intelligent und verspielt und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Cornish Rex",
+      "wikiTitle": "Cornish_Rex",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Cornish_Rex",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/BebopsLilacPrince.JPG",
+      "id": "crex",
+      "Description": "Diese Rasse gilt häufig als anhänglich, intelligent und aktiv und sucht je nach Charakter gern die Nähe ihrer Menschen. Auffällig ist das meist lockige oder gewellte Fell und der schlanke, wendige Körperbau. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Cymric",
+      "wikiTitle": "Cymric_(Katze)",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Cymric_(Katze)",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cymric%20-%20Norwegian%20forest%20cat%20presentation%20show%20Kotka%202009-02-01%20IMG%200687.JPG",
+      "id": "cymr",
+      "Description": "Diese Rasse gilt häufig als sanft, loyal und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Ein Merkmal kann ein verkürzter Schwanz sein; ansonsten wirkt sie oft sportlich und beweglich. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Devon Rex",
+      "wikiTitle": "Devon_Rex",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Devon_Rex",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Devon%20Rex%20Cassini.jpeg",
+      "id": "drex",
+      "Description": "Diese Rasse gilt häufig als Highly interactive, Mischievous und loyal und sucht je nach Charakter gern die Nähe ihrer Menschen. Auffällig ist das meist lockige oder gewellte Fell und der schlanke, wendige Körperbau. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Don Sphynx",
+      "wikiTitle": "Don_Sphynx",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Don_Sphynx",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20sphynx.jpg",
+      "id": "dons",
+      "Description": "Diese Rasse gilt häufig als verspielt, anhänglich und loyal und sucht je nach Charakter gern die Nähe ihrer Menschen. Typisch ist eine nahezu haarlose Haut, weshalb warme Liegeplätze und etwas Hautpflege wichtig sind. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Exotische Kurzhaarkatze",
+      "wikiTitle": "Exotische_Kurzhaarkatze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Exotische_Kurzhaarkatze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Bissel%203.jpg",
+      "id": "esho",
+      "Description": "Diese Rasse gilt häufig als anhänglich, lieb und loyal und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kurzes Fell und mittelgroß bis kräftig. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Havana-Katze",
+      "wikiTitle": "Havana-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Havana-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Havana%20Brown%20-%20choco.jpg",
+      "id": "hbro",
+      "Description": "Diese Rasse gilt häufig als anhänglich, neugierig und fordernd und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Japanese Bobtail",
+      "wikiTitle": "Japanese_Bobtail",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Japanese_Bobtail",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/JapaneseBobtailBlueEyedMi-ke.JPG",
+      "id": "jbob",
+      "Description": "Diese Rasse gilt häufig als aktiv, Agile und Clever und sucht je nach Charakter gern die Nähe ihrer Menschen. Ein Merkmal kann ein verkürzter Schwanz sein; ansonsten wirkt sie oft sportlich und beweglich. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Javanese",
+      "wikiTitle": "Javanese-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Javanese-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Javanese%20cat.jpg",
+      "id": "java",
+      "Description": "Diese Rasse gilt häufig als aktiv, Devoted und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Khao Manee",
+      "wikiTitle": "Khao_Manee",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Khao_Manee",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Khaomanee%20cat.jpg",
+      "id": "khao",
+      "Description": "Diese Rasse gilt häufig als ruhig, Relaxed und gesprächig und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Korat-Katze",
+      "wikiTitle": "Korat-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Korat-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/KOR%201149.jpg",
+      "id": "kora",
+      "Description": "Diese Rasse gilt häufig als aktiv, loyal und highly intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Kurilen Bobtail",
+      "wikiTitle": "Kurilen_Bobtail",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Kurilen_Bobtail",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Kurilian%20bobtail.JPG",
+      "id": "kuri",
+      "Description": "Diese Rasse gilt häufig als eigenständig, highly intelligent und clever und sucht je nach Charakter gern die Nähe ihrer Menschen. Ein Merkmal kann ein verkürzter Schwanz sein; ansonsten wirkt sie oft sportlich und beweglich. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "LaPerm",
+      "wikiTitle": "LaPerm",
+      "wikiUrl": "https://de.wikipedia.org/wiki/LaPerm",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Laperm%20LH%20blacktortie%20white.jpg",
+      "id": "lape",
+      "Description": "Diese Rasse gilt häufig als anhänglich, freundlich und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Auffällig ist das meist lockige oder gewellte Fell und der schlanke, wendige Körperbau. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Maine-Coon-Katze",
+      "wikiTitle": "Maine-Coon-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Maine-Coon-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%BA%D1%83%D0%BD%D0%BE%D0%B2.jpg",
+      "id": "mcoo",
+      "Description": "Diese Rasse gilt häufig als Adaptable, intelligent und Loving und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kräftig und eher groß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Manx",
+      "wikiTitle": "Manx_(Katze)",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Manx_(Katze)",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Manx%20cat%20by%20Karen%20Weaver.jpg",
+      "id": "manx",
+      "Description": "Diese Rasse gilt häufig als Easy Going, intelligent und loyal und sucht je nach Charakter gern die Nähe ihrer Menschen. Ein Merkmal kann ein verkürzter Schwanz sein; ansonsten wirkt sie oft sportlich und beweglich. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Nebelung-Katze",
+      "wikiTitle": "Nebelung-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Nebelung-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Nebelung%20Male%2C%20Aleksandr%20van%20Song%20de%20Chine.JPG",
+      "id": "nebe",
+      "Description": "Diese Rasse gilt häufig als sanft, eher ruhig und Shy und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Norwegische Waldkatze",
+      "wikiTitle": "Norwegische_Waldkatze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Norwegische_Waldkatze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Noorse-boskat%20wikipedia%201.JPG",
+      "id": "norw",
+      "Description": "Diese Rasse gilt häufig als lieb, aktiv und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit halblanges bis langes Fell und mittelgroß bis kräftig. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Ocicat",
+      "wikiTitle": "Ocicat",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Ocicat",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ocicat%20Fond%20Blanc.jpg",
+      "id": "ocic",
+      "Description": "Diese Rasse gilt häufig als aktiv, Agile und neugierig und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Orientalisch Kurzhaar",
+      "wikiTitle": "Orientalisch_Kurzhaar",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Orientalisch_Kurzhaar",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Falballa%20%284499105%29.jpeg",
+      "id": "orie",
+      "Description": "Diese Rasse gilt häufig als energiegeladen, anhänglich und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kurzes Fell und eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Perserkatze",
+      "wikiTitle": "Perserkatze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Perserkatze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20Persian.jpg",
+      "id": "pers",
+      "Description": "Diese Rasse gilt häufig als anhänglich, loyal und Sedate und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Meist ist sie eher gemütlich und kommt mit moderater Beschäftigung gut aus. Für die Pflege sind regelmäßiges Bürsten und etwas Routine sinnvoll."
+    },
+    {
+      "breedName": "Pixiebob",
+      "wikiTitle": "Pixiebob",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Pixiebob",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Pantanal%20Pixie-Bob%202.jpg",
+      "id": "pixi",
+      "Description": "Diese Rasse gilt häufig als anhänglich, gesellig und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Ein Merkmal kann ein verkürzter Schwanz sein; ansonsten wirkt sie oft sportlich und beweglich. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "RagaMuffin",
+      "wikiTitle": "RagaMuffin",
+      "wikiUrl": "https://de.wikipedia.org/wiki/RagaMuffin",
+      "id": "raga",
+      "Description": "Diese Rasse gilt häufig als anhänglich, freundlich und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kräftig und eher groß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Ragdoll-Katze",
+      "wikiTitle": "Ragdoll-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Ragdoll-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Lynx%20Point.jpg",
+      "id": "ragd",
+      "Description": "Diese Rasse gilt häufig als anhänglich, freundlich und sanft und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kräftig und eher groß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Russisch Blau",
+      "wikiTitle": "Russisch_Blau",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Russisch_Blau",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruskis%20dimka%203%20%28cropped%29.jpg",
+      "id": "rblu",
+      "Description": "Diese Rasse gilt häufig als aktiv, Dependent und Easy Going und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Savannah-Katze",
+      "wikiTitle": "Savannah-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Savannah-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Savannah%20Cat%20portrait.jpg",
+      "id": "sava",
+      "Description": "Diese Rasse gilt häufig als neugierig, gesellig und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kräftig und eher groß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Schottische Faltohrkatze",
+      "wikiTitle": "Schottische_Faltohrkatze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Schottische_Faltohrkatze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Purple-scottish-fold.png",
+      "id": "sfol",
+      "Description": "Diese Rasse gilt häufig als anhänglich, intelligent und loyal und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Selkirk Rex",
+      "wikiTitle": "Selkirk_Rex",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Selkirk_Rex",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Selkirk%20Longhair.jpg",
+      "id": "srex",
+      "Description": "Diese Rasse gilt häufig als aktiv, anhänglich und Dependent und sucht je nach Charakter gern die Nähe ihrer Menschen. Auffällig ist das meist lockige oder gewellte Fell und der schlanke, wendige Körperbau. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Sibirische Katze",
+      "wikiTitle": "Sibirische_Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Sibirische_Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/SC%20Alizarin%20Animal%20Beat%20SIB%20a%2023.jpg",
+      "id": "sibe",
+      "Description": "Diese Rasse gilt häufig als neugierig, intelligent und loyal und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Singapura",
+      "wikiTitle": "Singapura",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Singapura",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Singapura%20Cats%20%28cropped%29.jpg",
+      "id": "sing",
+      "Description": "Diese Rasse gilt häufig als anhänglich, neugierig und Easy Going und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Snowshoe",
+      "wikiTitle": "Snowshoe",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Snowshoe",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chizhik%20Cat%20%28cropped%29.jpg",
+      "id": "snow",
+      "Description": "Diese Rasse gilt häufig als anhänglich, gesellig und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Somali-Katze",
+      "wikiTitle": "Somalikatze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Somalikatze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BE%D1%88%D0%BA%D0%B0.jpg",
+      "id": "soma",
+      "Description": "Diese Rasse gilt häufig als Mischievous, Tenacious und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    },
+    {
+      "breedName": "Sphynx-Katze",
+      "wikiTitle": "Sphynx-Katze",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Sphynx-Katze",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20Sphynx.%20img%20025.jpg",
+      "id": "sphy",
+      "Description": "Diese Rasse gilt häufig als loyal, wissbegierig und freundlich und sucht je nach Charakter gern die Nähe ihrer Menschen. Typisch ist eine nahezu haarlose Haut, weshalb warme Liegeplätze und etwas Hautpflege wichtig sind. Sie ist meist moderat aktiv und freut sich über tägliche Spielzeiten. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Tonkanese",
+      "wikiTitle": "Tonkanese",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Tonkanese",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Chat%20tonkinois%20lilac%20mink%20%28chatterie%20de%20l%27Esprit%20d%27Edenvane%29..jpg",
+      "id": "tonk",
+      "Description": "Diese Rasse gilt häufig als neugierig, intelligent und gesellig und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Toyger",
+      "wikiTitle": "Toyger",
+      "wikiUrl": "https://de.wikipedia.org/wiki/Toyger",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Toyger%20cat%20transparent.png",
+      "id": "toyg",
+      "Description": "Diese Rasse gilt häufig als verspielt, gesellig und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit mittelgroß bis kräftig. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Türkisch Angora",
+      "wikiTitle": "T%C3%BCrkisch_Angora",
+      "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkisch_Angora",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Angora%20turc.jpg",
+      "id": "tang",
+      "Description": "Diese Rasse gilt häufig als anhänglich, Agile und Clever und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit eher mittelgroß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "Türkisch Van",
+      "wikiTitle": "T%C3%BCrkisch_Van",
+      "wikiUrl": "https://de.wikipedia.org/wiki/T%C3%BCrkisch_Van",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Turkish%20Van%20cat%20transparent.png",
+      "id": "tvan",
+      "Description": "Diese Rasse gilt häufig als Agile, intelligent und loyal und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kräftig und eher groß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Fellpflege ist meist unkompliziert und gelegentliches Bürsten reicht oft aus."
+    },
+    {
+      "breedName": "York Chocolate",
+      "wikiTitle": "York_Chocolate",
+      "wikiUrl": "https://de.wikipedia.org/wiki/York_Chocolate",
+      "imageUrl": "http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20Kittie.jpg",
+      "id": "ycho",
+      "Description": "Diese Rasse gilt häufig als verspielt, gesellig und intelligent und sucht je nach Charakter gern die Nähe ihrer Menschen. Optisch zeigt sie sich mit kräftig und eher groß. Sie braucht viel Beschäftigung und gern auch Kletter- und Denkspiele. Die Pflege ist moderat; gelegentliches Bürsten hilft, lose Haare zu entfernen."
+    }
+  ]

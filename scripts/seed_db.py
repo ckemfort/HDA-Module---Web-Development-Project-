@@ -12,10 +12,9 @@ from scripts.seed.alt_names_seed import seed_alt_names
 def main():
     conn = get_connection()
     try:
-        # Correct order (parents first)
         seed_cat_breeds(conn)
         seed_breed_de_info(conn)
-        seed_temperament(conn)     # seeds temperament + breed_temperament
+        seed_temperament(conn)
         seed_alt_names(conn)
 
         conn.commit()

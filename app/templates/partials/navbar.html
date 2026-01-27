@@ -1,0 +1,38 @@
+<nav class="navbar navbar-expand-lg border-bottom py-3">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="{{ url_for('views.index') }}">Purrrfect Match</a>
+
+    <div class="collapse navbar-collapse show">
+      <ul class="navbar-nav mx-auto gap-4">
+        <li class="nav-item">
+          <a class="nav-link fw-semibold" href="{{ url_for('views.breeds_overview') }}">
+            <span class="nav-dot bg-info"></span> CAT ARTICLES »
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link fw-semibold" href="https://code.fbi.h-da.de/we-ws-25-26/project-2">
+            <span class="nav-dot bg-warning"></span> PROJECT DOCUMENTATION »
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link fw-semibold" href="https://thecatapi.com/">
+            <span class="nav-dot bg-secondary"></span> SOURCES »
+          </a>
+        </li>
+      </ul>
+
+        <form class="d-flex ms-lg-3" method="get" action="{{ url_for('views.breeds_overview') }}">
+          <input
+            class="form-control form-control-sm me-2"
+            type="search"
+            name="search"
+            placeholder="Search for specific cat"
+            aria-label="Search"
+            value="{{ request.args.get('search', '') }}">
+          <button class="btn btn-light border rounded-0 px-3" type="submit" title="Search">
+            🔍
+          </button>
+        </form>
+    </div>
+  </div>
+</nav>

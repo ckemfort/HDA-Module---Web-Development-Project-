@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+{% block title %}Purrrfect Match{% endblock %}
+
+{% block content %}
+
+<section class="py-4">
+  <div class="container">
+    <!-- Breed Name -->
+    <h2 class="mb-3 fw-bold">
+      {{ breed['name'] }}
+      {% if breed['de_name'] and breed['de_name'] != breed['name'] %}
+        / {{ breed['de_name'] }}
+      {% endif %}
+    </h2>
+
+
+      <!-- Alt Names -->
+      {% for a in alt_names %}
+        <h5>{{ a["alt_name"] }}</h5>
+      {% endfor %}
+
+     <!-- Temperament tags-->
+    <div class="d-flex flex-wrap gap-2 mb-3">
+    {% for t in temperaments %}
+      <span class="badge rounded-pill text-bg-light border">{{ t['name'] }}</span>
+    {% endfor %}
+    </div>
+
+      <!-- Wiki Link -->
+      <div class="mb-5">
+        <h5 class="mb-3">Wikipedia</h5>
+      {% if breed['wikipedia_url'] %}
+            <a href="{{ breed['wikipedia_url'] }}"
+           class="btn btn-outline-primary btn-sm" target="_blank" rel="noopener">Open Wikipedia Article</a>
+      {% else %}
+    <div class="text-muted">No Wikipedia link available.</div>
+  {% endif %}
+
+    <hr class="mt-0 mb-4">
+     <!-- Featured image -->
+    <div class="mb-4">
+        <img src="{{ breed['featured_image_url'] or url_for('static', filename='../static/placeholder.jpg') }}"
+             class="img-fluid object-fit-cover"
+             alt="{{ breed['name'] }}">
+    </div>
+
+      <!-- Breed Characteristics Panel-->
+<div class="card section-card p-3 p-md-4 mb-5">
+  <h4 class="mb-3 text-secondary fw-bold">Breed Characteristics</h4>
+
+  <div class="row g-4">
+
+    <!-- Column 1 -->
+    <div class="col-md-4">
+      <div class="traits-grid d-grid">
+        <div class="trait-row">
+          <div class="trait-label">Adaptability</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['adaptability'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="trait-row">
+          <div class="trait-label">Social Needs</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['social_needs'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="trait-row">
+          <div class="trait-label">Dog Friendly</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['dog_friendly'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Column 2 -->
+    <div class="col-md-4">
+      <div class="traits-grid d-grid">
+        <div class="trait-row">
+          <div class="trait-label">Energy Level</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['energy_level'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="trait-row">
+          <div class="trait-label">Shedding Level</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['shedding_level'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="trait-row">
+          <div class="trait-label">Intelligence</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['intelligence'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Column 3 -->
+    <div class="col-md-4">
+      <div class="traits-grid d-grid">
+        <div class="trait-row">
+          <div class="trait-label">Child Friendly</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['child_friendly'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="trait-row">
+          <div class="trait-label">Grooming</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['grooming'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="trait-row">
+          <div class="trait-label">Affectionate</div>
+          <div class="rating-dots">
+            {% for i in range(1, 6) %}
+              <span class="dot {% if i <= breed['affection_level'] %}filled{% endif %}"></span>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+    <!-- Description -->
+    <div class="mb-5">
+      <h4 class="mb-3">Description</h4>
+
+      <p class="text-muted mb-2">{{ breed['description'] or "We haven't added a description for this breed yet." }}</p>
+
+        {% if breed['de_description'] %}
+        <p class="text-muted mb-0">
+          {{ breed['de_description'] }}
+        </p>
+      {% endif %}
+    </div>
+
+    <!-- Gallery -->
+    <div>
+     {% if gallery_images %}
+          <div class="row g-3">
+            {% for img in gallery_images %}
+              <div class="col-6 col-md-3 col-lg-2">
+                <div class="ratio ratio-1x1">
+                  <img src="{{ img }}" class="img-fluid rounded object-fit-cover" alt="">
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        {% else %}
+          <div class="alert alert-light border">No gallery images found.</div>
+        {% endif %}
+          </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+{% endblock %}

@@ -1,0 +1,127 @@
+{% extends "base.html" %}
+{% block title %}Purrrfect Match{% endblock %}
+
+{% block content %}
+
+<section class="pb-5">
+  <div class="container">
+    <h2 class="fw-normal mb-4">Your Guide To Cats</h2>
+
+    <div class="d-flex justify-content-between align-items-center mb-2">
+      <div class="fw-semibold">List of All Breeds</div>
+      <div class="text-muted small">
+        {{ all_breeds|length }} Results
+      </div>
+    </div>
+    <hr class="mt-0 mb-4">
+
+    <!-- FILTER BAR -->
+    <form method="get" class="row g-3 align-items-end mb-4">
+
+      <!-- Sort -->
+      <div class="col-md-3">
+        <label class="form-label">Sort:</label>
+        <select name="sort" class="form-select">
+          <option value="name_asc" {% if active.sort == "name_asc" %}selected{% endif %}>Name (A–Z)</option>
+          <option value="weight_asc" {% if active.sort == "weight_asc" %}selected{% endif %}>Weight (smallest → biggest)</option>
+          <option value="weight_desc" {% if active.sort == "weight_desc" %}selected{% endif %}>Weight (biggest → smallest)</option>
+          <option value="lifespan_desc" {% if active.sort == "lifespan_desc" %}selected{% endif %}>Life Expectancy (longest → shortest)</option>
+        </select>
+      </div>
+
+        <div class="col-md-3">
+          <label class="form-label">Origin:</label>
+          <select name="origin" class="form-select">
+            <option value="" {% if active.origin == "" %}selected{% endif %}>---</option>
+            {% for o in origins %}
+              <option value="{{ o }}" {% if active.origin == o %}selected{% endif %}>{{ o }} </option>
+            {% endfor %}
+          </select>
+        </div>
+
+      <!-- Checkboxes -->
+      <div class="col-md-3">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="cfa" value="1" id="cfa"
+                 {% if active.cfa %}checked{% endif %}>
+          <label class="form-check-label" for="cfa">CFA recognized</label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="grooming_high" value="1" id="grooming_high"
+                 {% if active.grooming_high %}checked{% endif %}>
+          <label class="form-check-label" for="grooming_high">Requires grooming</label>
+        </div>
+
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="hypoallergenic"  value="1" id="hypoallergenic"
+                   {% if active.hypoallergenic %}checked{% endif %}>
+            <label class="form-check-label" for="hypoallergenic">Hypoallergenic</label>
+        </div>
+
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="de_article"  value="1" id="de_article"
+         {% if active.de_article %}checked{% endif %}>
+            <label class="form-check-label" for="de_article">Has German Article</label>
+        </div>
+      </div>
+
+      <!-- Buttons -->
+      <div class="col-md-3 d-flex gap-2">
+        <button class="btn btn-primary w-100" type="submit">Apply</button>
+        <a class="btn btn-outline-secondary w-100" href="{{ url_for('views.breeds_overview') }}">Reset</a>
+      </div>
+    </form>
+
+    <!-- RESULTS GRID -->
+    <div class="row g-4">
+      {% for b in all_breeds %}
+        <div class="col-md-4">
+          <div class="card border-0 shadow-sm h-100 rounded-3 position-relative">
+
+            <div class="ratio ratio-16x9">
+              <img
+                src="{{ b['featured_image_url'] or url_for('static', filename='../static/placeholder.jpg') }}"
+                class="img-fluid object-fit-cover"
+                alt="{{ b['name'] }}"
+              >
+            </div>
+
+            <div class="card-body">
+              <div class="text-primary small fw-semibold">Cats</div>
+              <div class="h5 mb-0">{{ b['name'] }}</div>
+
+              <!-- tiny badges -->
+              <div class="mt-2 d-flex flex-wrap gap-2">
+                {% if b['hypoallergenic'] == 1 %}
+                  <span class="badge text-bg-success">Hypoallergenic</span>
+                {% endif %}
+                {% if b['cfa_url'] %}
+                  <span class="badge text-bg-secondary">CFA</span>
+                {% endif %}
+                {% if b['grooming'] is not none and b['grooming'] >= 4 %}
+                  <span class="badge text-bg-warning">Requires Grooming</span>
+                {% endif %}
+                {% if b['origin'] %}
+                  <span class="badge text-bg-info">{{ b['origin'] }}</span>
+                {% endif %}
+              </div>
+            </div>
+
+            <a class="stretched-link"
+               href="{{ url_for('views.breed_detail', breed_id=b['breed_id']) }}"></a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <!-- EMPTY STATE -->
+    {% if all_breeds|length == 0 %}
+      <div class="alert alert-light border mt-4">
+        No results. Try other filters or click Reset.
+      </div>
+    {% endif %}
+  </div>
+</section>
+
+{% endblock %}

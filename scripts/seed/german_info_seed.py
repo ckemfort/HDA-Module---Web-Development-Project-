@@ -35,9 +35,9 @@ def seed_breed_de_info(conn=None):
     skipped = 0
 
     for breed in breeds:
-        breed_id = clean_text(breed.get("catApiId"))
+        breed_id = clean_text(breed.get("id"))
         de_name = clean_text(breed.get("breedName"))
-        de_description = clean_text(breed.get("description"))
+        de_description = clean_text(breed.get("Description"))
         de_wiki_url = clean_text(breed.get("wikiUrl"))
 
         if not breed_id or not de_name:
