@@ -11,7 +11,6 @@ Implement an end-to-end data pipeline using at least two different data sources.
 Expan on the knowledge acquired in the corresponding basic courses on semantics, information design, and software engineering.
 
 ## Installation
-The dependencies can be seen in the .toml file 
 Run scripts/init_db.py to initialise the SQLite database
 Run the /scripts/seed_db.py to seed the Database
 Run app/app.py to start the flask server
